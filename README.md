@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Nirob
+
+## 🚀 Fullstack AI Engineer
+
+- 🔭 Building AI products (re:tune, 10Xlaunch)
+- 🌱 Working with AI Agents, LangChain, RAG
+- 📫 Email: smh.nirob@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/nirobsmh](https://www.linkedin.com/in/nirobsmh/)
+
+## 🧠 Tech Stack
+JavaScript | TypeScript | Python | React | Next.js | AWS | LangChain
 
 <!--
 **nirobsmh/nirobsmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
