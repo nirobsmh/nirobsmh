@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alfred Pithu</h1>
+<h1 align="center">Hi 👋, I'm Nirob</h1>
 <h3 align="center">Building Fullstack AI applications</h3>
 
-- 👨‍💻 Currently working at <a href="https://marketing.mba" target="_blank" rel="noreferrer">Marketing MBA</a>
- as an AI Application Engineer. Building Cursor for Marketing.
-- 👨‍💻 Prev at <a href="https://altercall.com/aai" target="_blank" rel="noreferrer">Altercall Ai</a>
+- 👨‍💻 Currently working at TopTal as an AI Application Engineer.
+- 👨‍💻 Prev at <a href="https://retune.so/" target="_blank" rel="noreferrer">Re:tune</a>
  as Fullstack AI Engineer
-- 📄 <a href="https://drive.google.com/file/d/1vwoUpz7u4xuJ-EZp4amfoaFFh48yC35D/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
-- 📫 Email me at alfredpithu@gmail.com
-- <a href="https://www.linkedin.com/in/alfredpithu/" target="_blank" rel="noreferrer">Linkedin</a> 
-- 🌱 I know JavaScript, Typescript, Python, Langchain, Langgraph, Langsmith, AI Agents, RAG, CrewAI, Docker, React, Angular, Jest, Express, Fastapi, Postgres, Mysql, MongoDB, AWS DynamoDB, Drizzle, Mongoose, AWS S3, AWS Lambda, AWS Cognito, AWS Amplify, AWS ECR, AWS ECS, AWS Cloudwatch, etc.
+- 📄 <a href="https://drive.google.com/file/d/1zlszFbrKIViAz5DYZ6mcssVCYGv0pCUb/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
+- 📫 Email me at smh.nirob@gmail.com
+- <a href="https://www.linkedin.com/in/nirobsmh/" target="_blank" rel="noreferrer">Linkedin</a> 
+- 🌱 I know JavaScript, Typescript, Python, Langchain, Langgraph, Langsmith, AI Agents, RAG, Docker, React, NextJS, Angular, Jest, Express, Fastapi, Postgres, Mysql, MongoDB, AWS DynamoDB, Drizzle, AWS S3, AWS Lambda, AWS Cognito, AWS Amplify, AWS ECR, AWS ECS, AWS Cloudwatch, etc.
 
 
 <!--
