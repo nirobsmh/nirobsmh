@@ -4,11 +4,11 @@
 - 👨‍💻 Currently working at TopTal as an AI Application Engineer.
 - 👨‍💻 Prev at <a href="https://retune.so/" target="_blank" rel="noreferrer">Re:tune</a>
  as Fullstack AI Engineer
-- Founder at <a href="https://homeofcoders.com/" target="_blank" rel="noreferrer">HomeofCoders</a>
+- 👷‍♂️ Founder at <a href="https://homeofcoders.com/" target="_blank" rel="noreferrer">HomeofCoders</a>
 - 📄 <a href="https://drive.google.com/file/d/1zlszFbrKIViAz5DYZ6mcssVCYGv0pCUb/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
 - 📫 Email me at smh.nirob@gmail.com
-- <a href="https://www.linkedin.com/in/nirobsmh/" target="_blank" rel="noreferrer">Linkedin</a> 
-- 🌱 I know JavaScript, Typescript, Python, Langchain, Langgraph, Langsmith, AI Agents, RAG, Docker, React, NextJS, Angular, Jest, Express, Fastapi, Postgres, Mysql, MongoDB, AWS DynamoDB, Drizzle, AWS S3, AWS Lambda, AWS Cognito, AWS Amplify, AWS ECR, AWS ECS, AWS Cloudwatch, etc.
+- 🌍 Let's connect on <a href="https://www.linkedin.com/in/nirobsmh/" target="_blank" rel="noreferrer">Linkedin</a> 
+- 💡 I know JavaScript, Typescript, Python, Langchain, Langgraph, Langsmith, AI Agents, RAG, Docker, React, NextJS, Angular, Jest, Express, Fastapi, Postgres, Mysql, MongoDB, AWS DynamoDB, Drizzle, AWS S3, AWS Lambda, AWS Cognito, AWS Amplify, AWS ECR, AWS ECS, AWS Cloudwatch, etc.
 
 
 <!--
