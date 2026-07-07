@@ -6,7 +6,7 @@
  as Fullstack AI Engineer
 - 👷‍♂️ Founder at <a href="https://homeofcoders.com/" target="_blank" rel="noreferrer">HomeofCoders</a>
 - 👷‍♂️ Founding Engineer at <a href="https://retune.so/" target="_blank" rel="noreferrer">Retune</a>
-- 📄 <a href="https://drive.google.com/file/d/1zlszFbrKIViAz5DYZ6mcssVCYGv0pCUb/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
+- 📄 <a href="https://drive.google.com/file/d/1Ao8rMeT4Yty01lP5WwgVRzsQrsoBnQBp/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
 - 🌍 My website - <a href="https://nirobs.com/" target="_blank" rel="noreferrer">nirobs.com</a>
 - 📫 Email me at smh.nirob@gmail.com
 - 🤝 Let's connect on <a href="https://www.linkedin.com/in/nirobsmh/" target="_blank" rel="noreferrer">Linkedin</a> 
