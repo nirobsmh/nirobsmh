@@ -2,9 +2,10 @@
 <h3 align="center">Building Fullstack AI applications</h3>
 
 - 👨‍💻 Currently working at  <a href="https://www.toptal.com/developers/resume/syed-mehedi-hasan-nirob#Portfolio" target="_blank" rel="noreferrer"> TopTal</a> as an AI Application Engineer.
-- 👨‍💻 Prev at <a href="https://retune.so/" target="_blank" rel="noreferrer">Re:tune</a>
+- 👨‍💻 Prev at <a href="https://recruit.so/" target="_blank" rel="noreferrer">Re:cruit</a>
  as Fullstack AI Engineer
 - 👷‍♂️ Founder at <a href="https://homeofcoders.com/" target="_blank" rel="noreferrer">HomeofCoders</a>
+- 👷‍♂️ Founding Engineer at <a href="https://retune.so/" target="_blank" rel="noreferrer">Retune</a>
 - 📄 <a href="https://drive.google.com/file/d/1zlszFbrKIViAz5DYZ6mcssVCYGv0pCUb/view?usp=sharing" target="_blank" rel="noreferrer">Resume</a>
 - 🌍 My website - <a href="https://nirobs.com/" target="_blank" rel="noreferrer">nirobs.com</a>
 - 📫 Email me at smh.nirob@gmail.com
