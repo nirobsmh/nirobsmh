@@ -10,7 +10,7 @@
 - 🌍 My website - <a href="https://nirobs.com/" target="_blank" rel="noreferrer">nirobs.com</a>
 - 📫 Email me at smh.nirob@gmail.com
 - 🤝 Let's connect on <a href="https://www.linkedin.com/in/nirobsmh/" target="_blank" rel="noreferrer">Linkedin</a> 
-- 💡 I know JavaScript, Typescript, Python, Langchain, Langgraph, Langsmith, AI Agents, RAG, Docker, React, NextJS, Angular, Jest, Express, Fastapi, Postgres, Mysql, MongoDB, AWS DynamoDB, Drizzle, AWS S3, AWS Lambda, AWS Cognito, AWS Amplify, AWS ECR, AWS ECS, AWS Cloudwatch, etc.
+- 💡 I know JavaScript, Typescript, Python, Langchain, Langgraph, Langsmith, AI Agents, RAG, Docker, React, NextJS, Angular, Jest, Express, Fastapi, Postgres, Mysql, MongoDB, AWS DynamoDB, Drizzle, AWS S3, AWS Lambda, AWS Cognito, AWS Amplify, AWS ECR, AWS ECS etc.
 
 
 <!--
