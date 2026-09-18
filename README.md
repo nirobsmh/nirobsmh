@@ -4,6 +4,7 @@
 - 👨‍💻 Currently working at <a href="https://recruit.so/" target="_blank" rel="noreferrer">Re:cruit</a>
  as Fullstack AI Engineer
 - 👨‍💻 Working at  <a href="https://www.toptal.com/developers/resume/syed-mehedi-hasan-nirob#Portfolio" target="_blank" rel="noreferrer"> TopTal</a> as an AI Application Engineer.
+- 👷‍♂️ Founder at <a href="https://zerocapped.com/" target="_blank" rel="noreferrer">ZeroCapped</a>
 - 👷‍♂️ Founder at <a href="https://homeofcoders.com/" target="_blank" rel="noreferrer">HomeofCoders</a>
 - 👷‍♂️ Founding Engineer at <a href="https://retune.so/" target="_blank" rel="noreferrer">Retune</a>
 - 🌍 My website - <a href="https://nirobs.com/" target="_blank" rel="noreferrer">nirobs.com</a>
